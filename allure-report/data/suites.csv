@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13322","Failed login test","firefox","Mon Sep 08 16:57:14 IST 2025","failed","Mon Sep 08 16:57:27 IST 2025","","sample.spec.js","",""
+"","6382","Successful login test","webkit","Mon Sep 08 16:57:32 IST 2025","passed","Mon Sep 08 16:57:38 IST 2025","","sample.spec.js","",""
+"","13844","Failed login test","chromium","Mon Sep 08 16:57:14 IST 2025","failed","Mon Sep 08 16:57:28 IST 2025","","sample.spec.js","",""
+"","10147","Failed login test","webkit","Mon Sep 08 16:57:36 IST 2025","failed","Mon Sep 08 16:57:46 IST 2025","","sample.spec.js","",""
+"","9303","Successful login test","firefox","Mon Sep 08 16:57:14 IST 2025","passed","Mon Sep 08 16:57:23 IST 2025","","sample.spec.js","",""
+"","9259","Successful login test","chromium","Mon Sep 08 16:57:14 IST 2025","passed","Mon Sep 08 16:57:23 IST 2025","","sample.spec.js","",""
